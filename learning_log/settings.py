@@ -23,9 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '76j&v-bj0-wppc89nu1-p+f@d9n(w7rs1@pxz&0_m$ky6&!9he'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+# Хостом проекта может быть только Heroku
+ALLOWED_HOSTS = ['learning_log-arcaim.herokuapp.com']
 
 
 # Application definition
