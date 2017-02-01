@@ -18,8 +18,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -57,8 +57,8 @@
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" />
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/edit_entry.html" />
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
-        <option value="$PROJECT_DIR$/learning_log/settings.py" />
         <option value="$PROJECT_DIR$/learning_log/wsgi.py" />
+        <option value="$PROJECT_DIR$/learning_log/settings.py" />
       </list>
     </option>
   </component>
@@ -463,10 +463,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
           <folding />
         </state>
       </provider>
